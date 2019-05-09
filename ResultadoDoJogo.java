@@ -9,8 +9,6 @@ public class ResultadoDoJogo{
 		this.golsTime2 = golsTime2;
 	}
 
-	//public ResultadoDoJogo();
-
 	public int getGolsTime1(){
 		return this.golsTime1;
 	}
